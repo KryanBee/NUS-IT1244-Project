@@ -3,7 +3,7 @@
 This repository contains Team 2's submission for **IT1244 - Early Cancer Detection Using Machine Learning**. Our project explores machine learning models for classifying DNA samples as either **healthy or cancerous** based on blood draw data.
 
 ## 🏆 Project Overview
-Traditional cancer diagnostics rely on invasive tests and subjective judgment, leading to risks of **false negatives** and **false positives**. To improve accuracy, we trained and evaluated **Logistic Regression, Random Forest, and Support Vector Machine (SVM)** models on a high-dimensional and **imbalanced dataset**. The **SVM model** achieved the highest **Receiver Operating Characteristic AUC of 0.882** and a **Precision-Recall AUC of 0.982**, demonstrating strong discriminatory ability in distinguishing cancerous from healthy samples.
+Traditional cancer diagnostics rely on invasive tests and subjective judgment, leading to risks of **false negatives** and **false positives**. To improve accuracy, we trained and evaluated **Logistic Regression, Random Forest, and Support Vector Machine (SVM)** models on a high-dimensional and **imbalanced dataset**. The **SVM model** achieved the highest **Receiver Operating Characteristic AUC of 0.882** and a **Precision-Recall AUC of 0.982**, demonstrating strong discriminatory ability in distinguishing cancerous from healthy samples. This report received a score of 90/100 in AY24/25 Semester 1.
 
 ## 📂 Repository Contents
 - **data/** : Contains train and test datasets.
