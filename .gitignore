@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore editting files
+IT1244_Team2_Report.docx
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
